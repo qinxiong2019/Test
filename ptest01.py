@@ -27,6 +27,8 @@
             
 ######quick sort
 
+print "test update"
+
 arr=[2,5,1,3,7,1,10,35,12]
 print arr
 
